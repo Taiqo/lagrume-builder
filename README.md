@@ -1,31 +1,9 @@
-# web-builder
-> Build your own web! 
-[![Build Status](https://travis-ci.org/web-bakery/web-builder.svg?branch=master)](https://travis-ci.org/web-bakery/web-builder)
+# Vuse
 
-## Project setup
-```
-npm install
-```
+Advanced page/email builder based on [Vue.js](https://vuejs.org/).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[documentation](https://baianat.github.io/vuse/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## License
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+MIT
